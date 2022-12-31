@@ -1,0 +1,20 @@
+.body-search {
+  position: relative !important;
+}
+
+.card-body{
+  width: 180px;
+}
+
+.href{
+  display: none;
+}
+
+/* .searchBg{
+  background: url('/AJOLOTLOL/static/img/background.jpg')no-repeat center center;
+  background-size: cover;
+} */
+
+.titleA{
+  color: red;
+}
